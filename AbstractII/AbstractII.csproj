@@ -58,6 +58,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Master.Master" />
+    <Content Include="Style\bootstrap.css.map" />
+    <Content Include="Style\fonts\fontawesome-webfont.eot" />
+    <Content Include="Style\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Style\fonts\fontawesome-webfont.woff" />
+    <Content Include="Style\fonts\FontAwesome.otf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -66,6 +71,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\toastr.js" />
+    <Content Include="Style\font-awesome.css" />
+    <Content Include="Style\fonts\fontawesome-webfont.svg" />
+    <Content Include="Style\toastr.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

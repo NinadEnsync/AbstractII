@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Users\erica\Desktop\AbstractII\AbstractII\AbstractII\bin\AbstractII.dll.config
 C:\Users\erica\Desktop\AbstractII\AbstractII\AbstractII\bin\AbstractII.dll
 C:\Users\erica\Desktop\AbstractII\AbstractII\AbstractII\bin\AbstractII.pdb
 C:\Users\erica\Desktop\AbstractII\AbstractII\AbstractII\obj\Debug\AbstractII.csprojResolveAssemblyReference.cache
 C:\Users\erica\Desktop\AbstractII\AbstractII\AbstractII\obj\Debug\AbstractII.dll
 C:\Users\erica\Desktop\AbstractII\AbstractII\AbstractII\obj\Debug\AbstractII.pdb
+=======
+C:\Users\Ninad\Documents\Visual Studio 2013\Projects\AbstractII\AbstractII\AbstractII\bin\AbstractII.dll.config
+C:\Users\Ninad\Documents\Visual Studio 2013\Projects\AbstractII\AbstractII\AbstractII\bin\AbstractII.dll
+C:\Users\Ninad\Documents\Visual Studio 2013\Projects\AbstractII\AbstractII\AbstractII\bin\AbstractII.pdb
+C:\Users\Ninad\Documents\Visual Studio 2013\Projects\AbstractII\AbstractII\AbstractII\obj\Debug\AbstractII.csprojResolveAssemblyReference.cache
+C:\Users\Ninad\Documents\Visual Studio 2013\Projects\AbstractII\AbstractII\AbstractII\obj\Debug\AbstractII.dll
+C:\Users\Ninad\Documents\Visual Studio 2013\Projects\AbstractII\AbstractII\AbstractII\obj\Debug\AbstractII.pdb
+>>>>>>> origin/master
